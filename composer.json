@@ -1,5 +1,5 @@
 {
-	"name": "cedricziel/typo3-cloud-autoconfiguration",
+	"name": "cedricziel/typo3-cloudoconfiguration",
 	"description": "Generates Autoconfiguration from environment variables",
 	"license": "MIT",
 	"authors": [
