@@ -11,6 +11,9 @@
 	"require": {
 		"monolog/monolog": "1.17.1"
 	},
+	"require-dev": {
+		"composer/composer": "1.0.0-alpha10"
+	},
 	"autoload": {
 		"psr-4": {
 			"CedricZiel\\TYPO3\\CloudoConfiguration\\": "src/"
